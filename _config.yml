@@ -1,0 +1,23 @@
+name: "Vee-o's ARM"
+favicon: null
+layout_spectrum: 0.41416435805149376
+typography_spectrum: 0.7195914154872298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.04221782786771655
+  lightness: 0.590982822002843
+  saturation: 0.6625327775254846
+  rhythmicContrast: 0.4993955392856151
+purpose: []
